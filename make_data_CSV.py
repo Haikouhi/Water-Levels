@@ -1,7 +1,6 @@
 import os
 import glob
 import gzip
-import unzip
 import pandas as pd
 
 class MakeDataCSV:
@@ -28,7 +27,7 @@ class MakeDataCSV:
             year = subdir.split('_')[1]
             os.mkdir(f'CSV/{year}')
 
-            file_list = self._make_list205  _files(subdir)
+            file_list = self._make_list_files(subdir)
 
             for file in file_list:
                 with gzip.open(file) as f:
