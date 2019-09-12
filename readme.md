@@ -17,3 +17,6 @@ In the data, you will find some info that is specific to this projet, so here's 
 - TOPEX/Poseidon : was a joint satellite mission between NASA, the U.S. space agency; and CNES, the French space agency, to map ocean surface topography. Launched on August 10, 1992, it was the first major oceanographic research satellite. TOPEX/Poseidon helped revolutionize oceanography by providing data previously impossible to obtain. Oceanographer Walter Munk described TOPEX/Poseidon as "the most successful ocean experiment of all time." A malfunction ended normal satellite operations in January 2006.
 
 - Jason is a family of three satellites jointly developed by NASA and CNES to study the ocean circulation and the interactions between the oceans and the atmosphere. The purpose of these missions is to improve climate change forecasts and to monitor oceanic phenomena such as El Niño or oceanic swirl zones. To fulfill these objectives, these spacecraft carry equipment for measuring sea level with a very high accuracy. These satellites, which took over from TOPEX / Poseidon, were placed in orbit respectively in 2001 (Jason-1). , 2008 (Jason-2) and 2016 (Jason-3)
+
+
+The NASA study can be found here : https://sealevel.nasa.gov/understanding-sea-level/global-sea-level/thermal-expansion
